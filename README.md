@@ -1,2 +1,2 @@
 # MongolianHCC
-Analysis pipeline for genomic study of Mongolian hepatocellular carcinoma
+Analysis pipeline of RNA-Seq and WES data from a Mongolian hepatocellular carcinoma cohort.
