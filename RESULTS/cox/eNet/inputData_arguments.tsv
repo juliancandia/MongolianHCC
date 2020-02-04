@@ -1,0 +1,17 @@
+argument	value
+family	cox
+nlambda	100
+nlambda.ext	NA
+seed	123
+scaled	TRUE
+n_fold	5
+n_run	1000
+n_perm_null	250
+QF_label	concordance index
+cox_index	concordance
+logrank	FALSE
+survAUC	FALSE
+survAUC_time	
+survAUC_method	KM
+survAUC_lambda	NA
+survAUC_span	NA

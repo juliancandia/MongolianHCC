@@ -1,0 +1,2256 @@
+reactomeID	species	categoryID	categoryName	categoryNameAbbr
+R-HSA-164843	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-73843	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1971475	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5619084	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1369062	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-382556	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-9033807	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-418592	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-392170	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-198323	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-198693	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-211163	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-112122	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-112126	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-4839748	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-163680	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5467333	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5467337	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-179409	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174143	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174048	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174154	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-176409	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174178	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-179419	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5649702	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-180689	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5624958	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-170984	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-380994	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-381183	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-381033	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1296025	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-450408	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-8854518	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5467340	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4839735	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2161541	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2161517	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2161522	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-73930	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2978092	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167242	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-156582	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-264642	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-181431	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-399997	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1300645	Homo sapiens	R-HSA-1474165	Reproduction	Reprod
+R-HSA-2122948	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9032845	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9028731	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9032500	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9028335	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9026527	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9026519	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9603381	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9034793	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9034864	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5625886	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2033519	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-111452	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-165158	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-399710	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-9619483	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-176814	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-176187	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-111447	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-114452	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-111446	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-139910	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-174577	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-451308	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1296041	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-991365	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-5619507	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-936964	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1592389	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-1169091	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2980767	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-442755	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-111448	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-451307	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-2151209	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-139915	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-428540	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-9619229	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1169092	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5635838	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-187015	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5617472	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-111459	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-2426168	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-451326	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-450341	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8866907	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-72662	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2485179	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-68962	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-75108	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-114294	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-1482798	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482883	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482788	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482839	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482925	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482922	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1482801	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1280218	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-417973	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-170660	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-170670	Homo sapiens	R-HSA-112316,R-HSA-162582	Neuronal System,Signal Transduction	Neur Sys Sig Tr
+R-HSA-418990	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-392023	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-400042	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-390696	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-879415	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5423646	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-351143	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1462054	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-389599	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-173736	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-140179	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-375280	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-209776	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-156587	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70614	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-352230	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-141444	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-141424	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-977225	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2214320	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-5620912	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-193048	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2473224	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-983170	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-983695	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1236975	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-983168	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6803157	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1169410	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-109581	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-140342	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-351906	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-111465	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-75153	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-111471	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-445717	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-426048	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2142753	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211957	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8937144	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-446203	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-175474	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9609736	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-168316	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8963889	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-2022090	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-68616	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-68867	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-390471	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-210455	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-4608870	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-162791	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3371568	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-174084	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-349425	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-177539	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-422475	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-193634	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-209563	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5250924	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5620922	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-9024909	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111453	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-1368108	Homo sapiens	R-HSA-400253	Circadian Clock	Circ Cl
+R-HSA-73884	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-73929	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-210991	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-1461957	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-77352	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77346	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77350	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77310	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77285	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77348	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77305	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3858494	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-196299	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-389887	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-390247	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-425381	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-194068	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2173782	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-173107	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4411364	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-141333	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211859	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2466712	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9018676	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018677	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026395	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018683	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9025094	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026403	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026290	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026286	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9025106	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9023661	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018896	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018679	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9020265	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9027604	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026762	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9027307	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018682	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9026766	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018681	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018678	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-446193	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-196780	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9033658	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70895	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-352238	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-168302	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-162588	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-450385	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-8851680	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5621481	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-75102	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-5218900	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-5621575	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5690714	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-389356	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-389357	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-389359	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-68689	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-69017	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68827	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-447041	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-5607763	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5607764	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5660668	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6811434	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-6811436	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-6807878	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-204005	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-140180	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-199920	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-442742	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-442720	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-442729	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-8874211	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-399956	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2024101	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-389513	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-211999	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-111996	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1296052	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-4086398	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111997	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111932	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2025928	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-419812	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111933	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-901042	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-111957	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-72737	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8955332	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5576891	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5694530	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8856825	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-5620920	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-71262	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-140534	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-418889	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-5357769	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-264870	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-209905	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-426117	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-174184	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-1640170	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69620	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69278	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-204998	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-446728	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-1222541	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-202733	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-1500931	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-421270	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-446353	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-2559583	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-189200	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-3371556	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-1234174	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-8953897	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-2262752	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-380287	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-193681	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-163765	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-390466	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-380108	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-75035	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-191273	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6807047	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6807062	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6798163	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2022870	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1793185	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3247509	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-4839726	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-73886	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8963888	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964026	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8963901	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5617833	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-400253	Homo sapiens	R-HSA-400253	Circadian Clock	Circ Cl
+R-HSA-71403	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-373076	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-373080	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-420499	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-983169	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9603798	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-1296053	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-173623	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8856828	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-110331	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110329	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-196741	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196783	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2470946	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-1650814	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-8948216	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-1442490	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-1474290	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-140875	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-8948700	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-166658	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6799198	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2514853	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2299718	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-177135	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-159424	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-177162	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-177128	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5674400	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2219530	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5637810	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1236382	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2691232	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2894862	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2644606	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2660826	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-176407	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-6814122	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-389958	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-388841	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-71288	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-166786	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8949613	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-1236973	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1236978	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2243919	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-69273	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69656	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69231	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69202	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-1614603	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211897	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-111461	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-1280215	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2564830	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1834949	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-156584	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-379716	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1489509	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2172127	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2424491	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-180024	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418885	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-168928	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3134963	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-73893	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5696394	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-73942	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2559586	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-5693606	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693532	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-73894	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-69306	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-69002	Homo sapiens	R-HSA-69306	DNA Replication	DNA Repl
+R-HSA-5334118	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-68952	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69190	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-376172	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-3769402	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-429947	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-429914	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-73887	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5607761	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5621480	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5682113	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5682294	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5688399	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5683678	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5678520	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5678771	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5683371	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5679001	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5690338	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5683177	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5678420	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5684045	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5683329	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5679096	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5679090	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579031	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579007	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5578997	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4549380	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4551295	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4720489	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5633231	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4549349	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4720475	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4724289	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4724325	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4720454	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359462	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619099	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9036092	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4420332	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083635	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3560801	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656244	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4793953	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3560783	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3371598	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9605310	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9616334	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9629232	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9616333	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083632	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359485	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5678895	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3595174	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3595172	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656225	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3595177	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619060	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5688890	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5688849	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359463	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579026	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579017	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579009	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579028	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579030	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579000	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579021	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579010	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579015	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579004	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5578996	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579014	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579027	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579011	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579005	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579013	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4755609	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4755583	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4549356	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4717374	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4719377	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4719360	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656253	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656237	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579019	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5609977	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5609976	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083636	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083625	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5609978	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619073	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5578999	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4085023	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9035968	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579022	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359457	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4085011	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579006	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656234	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656248	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619056	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3371599	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083627	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083630	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359458	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4793950	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579012	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579024	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4793952	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359475	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359471	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359474	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359473	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4793954	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4687000	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4043916	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359469	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359467	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359478	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9608287	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9608290	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5545483	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5632928	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5632927	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5632968	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5632987	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4341670	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9630222	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9630221	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5578998	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3560796	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5609974	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4043911	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083628	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083633	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5083629	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4570571	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619042	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5687868	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619048	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619104	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619087	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619039	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619070	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619035	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619076	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619067	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619062	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619111	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619071	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619066	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619053	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619077	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619055	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619036	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3560792	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619085	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619046	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619108	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619063	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619043	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619068	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619098	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619047	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619061	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619040	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5687583	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619045	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619097	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619037	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5663020	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619072	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619083	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619078	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579020	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619041	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619088	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619113	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5655799	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619049	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619050	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619054	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5656364	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5658208	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619096	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5658471	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619114	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5659729	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619079	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5659735	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619044	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619109	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619081	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5660724	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619089	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5660862	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5660883	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619092	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619052	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5661182	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619110	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619058	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619095	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4755579	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656243	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579032	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3359454	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5578995	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619107	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579002	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579016	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5688031	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5688354	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3323169	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3296469	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3296482	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1461973	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-4641257	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-4641258	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-916853	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-5610780	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5610783	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-195253	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1614558	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1474228	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-5467343	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5467345	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4419969	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-606279	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-73927	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-73928	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-8862803	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2022923	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3299685	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-5688426	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1266738	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-8935690	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-8963743	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-189085	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-192456	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-69416	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-4641262	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1643685	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3781860	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3906995	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3560782	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5609975	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5687613	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5602358	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2474795	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9605308	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5260271	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5423599	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5663084	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3781865	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5668914	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5663202	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-114516	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-5619115	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-110357	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-75205	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-212676	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-379401	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-390651	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8863795	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1358803	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1253288	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2173795	Homo sapiens	R-HSA-162582,R-HSA-74160	Signal Transduction,Gene expression (Transcription)	
+R-HSA-2173788	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-202424	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-186763	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1168372	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5654687	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654696	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654708	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654716	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5696400	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-6782135	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-113510	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-113507	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8866654	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3000178	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-2179392	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-182971	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-212718	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2682334	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-3928665	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-3928663	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-3928662	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-901032	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-199977	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1236974	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8847993	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6785631	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-427389	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-198753	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-202670	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8939211	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-162594	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-114508	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-391903	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-211979	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1566948	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-112303	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-2395516	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-139853	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-211976	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-917729	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-1236977	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-380972	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-168275	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-379398	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-379397	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-3928664	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-212165	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-1237044	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-1247673	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-9027276	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9027277	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9027284	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9027283	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5657562	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5662853	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2468052	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-193144	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9018519	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9634638	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9634635	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-71384	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-156842	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-72613	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-72764	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8941413	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168274	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9036866	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-180786	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-1474244	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-140834	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-8854050	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2644605	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2871809	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2871796	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2871837	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2029481	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-190242	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1839124	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-190370	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190374	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190373	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6803529	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190241	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1839126	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-190377	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190375	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190239	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2033514	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-190371	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190372	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190322	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1839128	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5658623	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-217271	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9614085	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9617828	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9614657	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9615017	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5654693	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654700	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654706	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654712	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-983231	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-6783310	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-75157	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-434316	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8978868	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211935	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-75105	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2454202	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2029480	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1187000	Homo sapiens	R-HSA-1474165	Reproduction	Reprod
+R-HSA-1566977	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-2855086	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-390450	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-163210	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-140877	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-167152	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167200	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5696395	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-112382	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-2559584	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-6781823	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-72689	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-196025	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-111458	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-77042	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-2408499	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-113418	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-75094	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-167158	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-173599	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-201722	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6809371	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-72695	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-389960	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5661270	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-444473	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-444209	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-400451	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-170968	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5652227	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70350	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5652084	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-168270	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168288	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-416482	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418594	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-416476	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418555	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418597	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8964315	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8964616	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-392451	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418217	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1296059	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-202040	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-397795	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-112040	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1538133	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69236	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69615	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69206	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69205	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68911	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69481	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69473	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69478	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69275	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-180292	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-977444	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-977443	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-888568	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-888590	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-6787639	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5635851	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5610785	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-430116	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-388396	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-500792	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-114604	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-179812	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1963640	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-354194	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-1306955	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-72706	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-70370	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-163841	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-159740	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-159854	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-190861	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-190873	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-190828	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-157858	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-5696397	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-6782210	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-881907	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-211000	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8950505	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-74160	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-202433	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-212436	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5696399	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-163359	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-381676	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-420092	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-194002	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70263	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70326	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-156588	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-210500	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-399721	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-156590	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-174403	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483206	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6814848	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6783984	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70221	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8982491	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3858516	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3828062	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5357609	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3878781	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3274531	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3229133	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3814836	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3229121	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3322077	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70171	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-209822	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1630316	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660662	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-389661	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-432722	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-162658	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8856688	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-982772	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3214847	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-1296061	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-3214815	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-8963896	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964011	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964058	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-3214842	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-5685942	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693567	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5685939	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5685938	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5658034	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-162906	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-162587	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167169	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167161	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167287	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2022928	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2024096	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3371511	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-3371571	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-3371497	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-5610787	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5632684	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5358346	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-189451	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-189483	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-109582	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-1638091	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5657560	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5387390	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5362768	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-629597	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-629594	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-629587	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-390650	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-70921	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6788656	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5693579	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693538	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-375281	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-162909	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168253	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-450520	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-2142850	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142845	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2160916	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483115	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483152	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3296197	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-204626	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2428924	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5602636	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5603027	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-937041	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6788467	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1855196	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855229	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855215	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855156	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855184	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855192	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855170	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-937039	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-975144	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-937042	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-975163	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5603041	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5603037	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-381070	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1606341	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3270619	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-74713	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-112399	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2428928	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1169408	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5603029	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168256	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-198933	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-200425	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-141430	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-428543	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2514859	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-400508	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5663205	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-622312	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168254	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168255	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168273	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168277	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-997272	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-168315	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168888	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168305	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-169131	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5638303	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-165181	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-113501	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-141405	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-166663	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2995383	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8876493	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8875360	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168249	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1483249	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-429593	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-9609523	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-163754	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-264876	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-77387	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-74751	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-428359	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-163685	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-162592	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-175567	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-354192	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-216083	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-9006921	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2534343	Homo sapiens	R-HSA-1474165	Reproduction	Reprod
+R-HSA-445095	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-8854521	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-177243	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-176034	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-176033	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-880009	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-499943	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-351200	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-913531	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-909733	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-877300	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-912526	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-446652	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-448706	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020702	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6783783	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-447115	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020591	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8983432	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-448424	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9012546	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-451927	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020558	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8854691	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020958	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020933	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9020956	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-512988	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9014843	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8984722	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9014826	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9008059	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9007892	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6785807	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6783589	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1059683	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1266695	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8985947	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-8963676	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-8981373	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-8942233	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8963678	Homo sapiens	R-HSA-8963743	Digestion and absorption	Dig Abs
+R-HSA-5659898	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6811442	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-6811438	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-434313	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8981607	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-9006925	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5620924	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-109606	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-140837	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-8941237	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-1296065	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-983712	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5578775	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-6803544	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-936837	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-451306	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-917937	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-450321	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5689877	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-450604	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-2022854	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2022857	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1638074	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6805567	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-74182	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-983189	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-156827	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-373760	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-8964038	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964041	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5682910	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-3134973	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5653890	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-69186	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-3000157	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-162599	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1222352	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-69109	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-166662	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-391906	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9037629	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5632681	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2046105	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8964572	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8876384	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-446343	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-9620244	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-2644607	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3304349	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3304347	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656534	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3642278	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9022534	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9022538	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9022537	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-380259	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-9005891	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9022535	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-380284	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-71064	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8853383	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-432720	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-419408	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-68886	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-450294	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5674135	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5684264	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5683057	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-450282	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-112411	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5684996	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-110056	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5687128	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2465910	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-9022699	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9022707	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9022927	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9022702	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6806942	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8851907	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8874081	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8865999	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8875555	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8851805	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8875791	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8875513	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8875878	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8875656	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5657655	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2132295	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2206302	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206296	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206307	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206282	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206291	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206305	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206290	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206308	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206280	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206285	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206292	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5660489	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-1632852	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-6791226	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-1500620	Homo sapiens	R-HSA-1474165,R-HSA-1640170	Reproduction,Cell Cycle	Reprod Cell Cycl
+R-HSA-912446	Homo sapiens	R-HSA-1474165,R-HSA-1640170	Reproduction,Cell Cycle	Reprod Cell Cycl
+R-HSA-1221632	Homo sapiens	R-HSA-1474165,R-HSA-1640170	Reproduction,Cell Cycle	Reprod Cell Cycl
+R-HSA-5662702	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-199991	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-174490	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5579029	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1430728	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2022377	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8953854	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-71291	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-71387	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8978934	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6806667	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196757	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2408550	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5263617	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2408508	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-556833	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-202131	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-194441	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-15869	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-351202	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-189445	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-392499	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-380612	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-196071	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8957322	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6806664	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196854	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196849	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-425410	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-6799990	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5689901	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5661231	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-1237112	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-156581	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2408552	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-203927	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-190840	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-193993	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-164516	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-211958	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5223345	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5358508	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5358606	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5358565	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5339716	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5339717	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1369007	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-77289	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-166187	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1592230	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-8949215	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-1362409	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1268020	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-379726	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-163282	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-163316	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5368287	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5389840	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5368286	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5419276	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5205647	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-68882	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-453279	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-453274	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2555396	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68881	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68877	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68875	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69618	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-68884	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2129379	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-947581	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1222449	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2206281	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-427601	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-390648	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-397014	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-975871	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5602498	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5602680	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-975155	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-166166	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-166058	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3785653	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-525793	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-975577	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-975576	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-964739	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-532668	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-205025	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-389542	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-375165	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-419037	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-9636003	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-168333	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-933543	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-209560	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-205017	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-167060	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-187024	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5676590	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168638	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-203754	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-203641	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2122947	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2979096	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2197563	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9013507	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9013508	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9013700	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9013695	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1368071	Homo sapiens	R-HSA-400253	Circadian Clock	Circ Cl
+R-HSA-193648	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-205043	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-168276	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9025046	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9034013	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9026357	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9032759	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9603505	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-442660	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-420597	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-8951664	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-167590	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-182218	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-164944	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-164939	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-164940	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-164938	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250941	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5674499	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654726	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654727	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654732	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654733	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5675221	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6807004	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9617324	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-9604323	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5368598	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3772470	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8866904	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-199418	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-936440	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-373753	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-418886	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-373752	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-6794361	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-8863678	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-447043	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-112316	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-194306	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-168799	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-112311	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-112314	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-112310	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-112313	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-6798695	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-197264	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196807	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-392154	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-427413	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9009391	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3000171	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-9017802	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5693571	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-975957	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-975956	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-927802	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-181430	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-350054	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-447038	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2980766	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2995410	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-198725	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3301854	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-383280	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-180746	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1251985	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8956320	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8956319	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-774815	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5696398	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-8956321	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-168643	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-418038	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5173214	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5173105	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-913709	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1480926	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8983711	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-381753	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190704	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-2559585	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-6802957	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-111885	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-419771	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-68949	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-389397	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1852241	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-561048	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-428643	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-549127	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-549132	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-449836	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-416700	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-5689896	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2559580	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-1234176	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-417957	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-141334	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5651801	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-4086400	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-389948	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-165160	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-210990	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-381042	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1483255	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483196	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5654689	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654695	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654710	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654720	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-109704	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1963642	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1250342	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2219528	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-198203	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6811555	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6811558	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1257604	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1660510	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660502	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660537	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660508	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660524	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5601884	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-163615	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-164378	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-111931	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-163358	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-109703	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3214841	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-112043	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-167021	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1251932	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-110362	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2892247	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2892245	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-163767	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1989781	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-212300	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5674404	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6807070	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849474	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849472	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849473	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849470	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849468	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849471	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8849469	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8857538	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-171306	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-168303	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6802955	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-432047	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-167290	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167238	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-71336	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6791465	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-156902	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-209952	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2980736	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-375276	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-390918	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9033241	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-9005895	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5576892	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5576894	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5576893	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5576890	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5576886	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-211945	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-156580	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-71182	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2160456	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8850843	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2393930	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5654219	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654221	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654227	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654228	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1483257	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-202427	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-176417	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69200	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-170145	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-176412	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5578768	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-5205685	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-8963898	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-174824	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964043	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8963899	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-75896	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-75892	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-76009	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-76002	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-418360	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-114608	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-418346	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-432142	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-164525	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-156711	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69091	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174411	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5250913	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-438064	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-389977	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-426496	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-163125	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-597592	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8957275	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-622327	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1296071	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1296067	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1912422	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1912420	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1912399	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1912408	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-389957	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-196108	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-112308	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-500657	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-622323	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-5693616	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-3215018	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-72203	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-75067	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-5693607	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-77595	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-8949664	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-174414	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69183	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5357801	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-964827	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1170546	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-70688	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-169893	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-71032	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-392851	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-391908	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-391251	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-9609507	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-8876725	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5676934	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8852135	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-6794362	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-433692	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-428559	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-427975	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-74259	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-73817	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-74217	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-500753	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-73621	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-73614	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-71737	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-70268	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-71406	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5365859	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8876198	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-8873719	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5673000	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-112409	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5673001	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6802953	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8853659	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-195258	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5663220	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5668599	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5627117	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5666185	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5663213	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5625900	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5626467	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5625970	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5627123	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5625740	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5627083	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1810476	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5213460	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-3214858	Homo sapiens	R-HSA-4839726	Chromatin organization	Chr Org
+R-HSA-77075	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-167160	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-73854	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73772	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73728	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73864	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73762	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73863	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-167162	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-674695	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73776	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73857	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-75955	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-75953	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-76042	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73779	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73856	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-749476	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73780	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-74158	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-76046	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-76061	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-76066	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-76071	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-73980	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6807505	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5340588	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9010642	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-1368082	Homo sapiens	R-HSA-400253	Circadian Clock	Circ Cl
+R-HSA-1222556	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5659996	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6791461	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-444257	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-8877330	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939243	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8931987	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8935964	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8936459	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939245	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939256	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939236	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939242	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939246	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939247	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941326	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941284	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941332	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941333	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8940973	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8949275	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8952158	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941855	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941856	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8951911	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8951430	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8951671	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8951936	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-9007101	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-392517	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-442982	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-975578	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-975574	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8934903	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-388844	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-110330	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110328	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110314	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693565	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-380320	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-380270	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-159418	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-72731	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-437239	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-418359	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-8866376	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-5218859	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-193692	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3248023	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3371378	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-176408	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-169911	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-977606	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9617629	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-4641263	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-170822	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3371453	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-912694	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-877312	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-381426	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1433559	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9022692	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-211728	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-2565942	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8943724	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8948747	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8943723	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8948751	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5658442	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8934593	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8939902	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8941858	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5686938	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5357905	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5633007	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804758	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804759	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804760	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804756	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804757	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804754	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6806003	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-2029482	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-211733	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-186712	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-1655829	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-428542	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-8985801	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-446388	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-9010553	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-191650	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-1234158	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-210745	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-210747	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-210746	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-210744	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-9634600	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-3134975	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-422356	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-400206	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9614399	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-450531	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-453276	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5675482	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-350562	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-204174	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-912631	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1433617	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-9627069	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-350864	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-444821	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-168298	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5362798	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111457	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-159782	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-69166	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174437	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-4641265	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1474165	Homo sapiens	R-HSA-1474165	Reproduction	Reprod
+R-HSA-110373	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110381	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-73933	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693537	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693568	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5693554	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2500257	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-611105	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-163200	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1222499	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-76005	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-5660526	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-2453864	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-975634	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6809583	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-177504	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6811440	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-888593	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-165054	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-73943	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-162589	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1475029	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-9037628	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-444411	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-194840	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-72702	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-428890	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2730905	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2029485	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-418890	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-69242	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5358747	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5358749	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5358751	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-187577	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174113	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-373756	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-399955	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-5654688	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654699	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654704	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5654719	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2428933	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-180336	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1250196	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1250347	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-427359	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-77588	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-111367	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-5619102	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-425407	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8985586	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-111463	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-111464	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-111469	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-3315487	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3304356	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2173796	Homo sapiens	R-HSA-162582,R-HSA-74160	Signal Transduction,Gene expression (Transcription)	
+R-HSA-3311021	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-112412	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1799339	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3249367	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1834941	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-3108232	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3065676	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3065679	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3065678	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2990846	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3108214	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4655427	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4615885	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4570464	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4085377	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4551638	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4755510	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-4090294	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3899300	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3232118	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3232142	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-3000480	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-3000471	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-3000484	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-3000497	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-2168880	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-2408522	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2408557	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-399954	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-400685	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-416572	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-416550	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-373755	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-2559582	Homo sapiens	R-HSA-8953897	Cellular responses to external stimuli	Cell Resp
+R-HSA-5693548	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-2467813	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-977347	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-181429	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-209931	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-380615	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-390666	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3282872	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-4085001	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-162582	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-392518	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-74749	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-391160	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-445144	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-1502540	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-201451	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6802952	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-177929	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1643713	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5637812	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1227986	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1236394	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9006335	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-190236	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1226099	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5654736	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1839120	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5655302	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5654738	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8851708	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2023837	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8853333	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5655253	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5654741	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8853334	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5655332	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8853338	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5654743	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5655291	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-372790	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5358351	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2028269	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-74752	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-449147	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2586552	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5637815	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6806834	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8852405	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1181150	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-157118	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1980143	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2691230	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2894858	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2644602	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2644603	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2660825	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1980145	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9012852	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9013694	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-187037	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9006115	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9034015	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-166520	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9006927	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-9006931	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5638302	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-186797	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8848021	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-6802949	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-376176	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-9006934	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5362517	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-194315	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1433557	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-170834	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3304351	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9006936	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2404192	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-194138	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-195721	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-4791275	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1839122	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1839130	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1839117	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6802948	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6802946	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8853336	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-983705	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-198765	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-187687	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-167044	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-198745	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-187706	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-426486	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-445355	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-427652	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-433137	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-425561	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-425986	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-1300642	Homo sapiens	R-HSA-1474165	Reproduction	Reprod
+R-HSA-1660661	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-428157	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1295596	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-69541	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-211994	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211736	Homo sapiens	R-HSA-5357801	Programmed Cell Death	Prog Cell Death
+R-HSA-2672351	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-390522	Homo sapiens	R-HSA-397014	Muscle contraction	Muscl contr
+R-HSA-1614517	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1614635	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5683826	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-69052	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8849932	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-3000170	Homo sapiens	R-HSA-1474244	Extracellular matrix organization	ECM Org
+R-HSA-174495	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-171286	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2142816	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142712	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142770	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142688	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483171	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483076	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-69239	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-446199	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-446205	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2142696	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855183	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855204	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855231	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1855191	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77111	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142691	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2142700	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483166	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483191	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483213	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483148	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483226	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483248	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660514	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660516	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660517	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1660499	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8847453	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1483101	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2162123	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-446210	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-8866652	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-192105	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-193775	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-193807	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-193368	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5358493	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-162699	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-480985	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2142670	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-162710	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-1855167	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-446219	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-75876	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-6782861	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-422085	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-381771	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-400511	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5358752	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-445989	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-6791462	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6791055	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8854214	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-201681	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5339700	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-202403	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5221030	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8866911	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8866910	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8866906	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8869496	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-2173789	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-2173791	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3656532	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3656535	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3645790	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-3642279	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5602566	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168927	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9014325	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-9013973	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5602410	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-9013957	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5676594	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-75893	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5357956	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5357786	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5626978	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5668541	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5669034	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5628897	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6803207	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6791312	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5633008	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6796648	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6803211	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6803204	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804116	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804114	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6804115	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-6803205	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5602571	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-918233	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-933541	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-975110	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-933542	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-975138	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-937072	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-75158	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-937061	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2562578	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-187042	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-3295583	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-1299503	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1299361	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1299344	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1299316	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-9033500	Homo sapiens	R-HSA-9609507	Protein localization	Prot Loc
+R-HSA-380095	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1299308	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1299287	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-1296346	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-167243	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-167246	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-174417	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-174430	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-171319	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-157579	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-166665	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-977068	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5656169	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-1474151	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-844615	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-844623	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-844455	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-844456	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-1663150	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2453902	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-1428517	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-167826	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2514856	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-167827	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2187335	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8852276	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-164952	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-8849175	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-456926	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-428930	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-209968	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-210993	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-420029	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-1222538	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1222387	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168142	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-181438	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168164	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-166016	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168176	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168181	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168138	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168179	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168188	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-168898	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-5250968	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250958	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250971	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250955	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250992	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250981	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250989	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5250982	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-1679131	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-399719	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-416993	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-5624138	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-75944	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-1362277	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-1362300	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-167172	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6781827	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-69895	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-8953750	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8986944	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-3700989	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-2151201	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-69560	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-2173793	Homo sapiens	R-HSA-162582,R-HSA-74160	Signal Transduction,Gene expression (Transcription)	
+R-HSA-8878171	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8878166	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8878159	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-5578749	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-8864260	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-452723	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-381340	Homo sapiens	R-HSA-1266738	Developmental Biology	Dev Biol
+R-HSA-166020	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-917977	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-72766	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-72649	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-110320	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5656121	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-5655862	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110312	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-110313	Homo sapiens	R-HSA-73894	DNA Repair	DNA Repair
+R-HSA-1445148	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-202430	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-112315	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-112307	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-174362	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-168874	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-72202	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-159231	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-159236	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-159234	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-168271	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-425366	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-190827	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-190872	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-804914	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-159763	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-432030	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-425393	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-83936	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-727802	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-879518	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-382551	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-159230	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-159227	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-425397	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-948021	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-75109	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-163560	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8979227	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-450513	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-5467348	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-71240	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-446107	Homo sapiens	R-HSA-1500931	Cell-Cell communication	C-C Comm
+R-HSA-427589	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5689603	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-5602415	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5689880	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-2142789	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-69601	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-75815	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-438066	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-162585	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168336	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-381119	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-176974	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-5339562	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5210891	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5336415	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-70635	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77108	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-195399	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-194313	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-4420097	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5218921	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5218920	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8866423	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8964046	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-8866427	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-5619094	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5619101	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5660686	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-432040	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-388479	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5653656	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-180585	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168325	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168330	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-192823	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-168268	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-2187338	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-196819	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196843	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-199220	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196836	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-196791	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-8877627	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-211916	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-964975	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1296072	Homo sapiens	R-HSA-112316	Neuronal System	Neur Sys
+R-HSA-180897	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-180910	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-180534	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-5620916	Homo sapiens	R-HSA-1852241	Organelle biogenesis and maintenance	Org Biog
+R-HSA-3238698	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5340573	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-201688	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5140745	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-5099900	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-8848584	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-5545619	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-381038	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-211981	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2032785	Homo sapiens	R-HSA-74160	Gene expression (Transcription)	Gene Expr
+R-HSA-1606322	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-435368	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-442380	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-435354	Homo sapiens	R-HSA-382551	Transport of small molecules	Transp Sm Mol
+R-HSA-450302	Homo sapiens	R-HSA-168256	Immune System	Imm Sys
+R-HSA-2046104	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-2046106	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-1307965	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-418457	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-192869	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-203615	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-72187	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72086	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-75072	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-75064	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72200	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72172	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72163	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72165	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-429958	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-430039	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-165159	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-166208	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-77286	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-77288	Homo sapiens	R-HSA-1430728	Metabolism	Metab
+R-HSA-372708	Homo sapiens	R-HSA-109582	Hemostasis	Hemost
+R-HSA-171007	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-69563	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69580	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69610	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-69613	Homo sapiens	R-HSA-1640170	Cell Cycle	Cell Cycl
+R-HSA-193704	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-193670	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-209543	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-193697	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-193639	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-111995	Homo sapiens	R-HSA-162582	Signal Transduction	Sig Transd
+R-HSA-4839743	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-6793080	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-6790901	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72312	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-8868766	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-8868773	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-191859	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-2033515	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-379724	Homo sapiens	R-HSA-392499	Metabolism of proteins	Metab Prot
+R-HSA-6787450	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-6782315	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-72306	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-6785470	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-6784531	Homo sapiens	R-HSA-8953854	Metabolism of RNA	Metab RNA
+R-HSA-199992	Homo sapiens	R-HSA-5653656	Vesicle-mediated transport	Ves-med Transp
+R-HSA-4839744	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-192814	Homo sapiens	R-HSA-1643685	Disease	Disease
+R-HSA-192905	Homo sapiens	R-HSA-1643685	Disease	Disease
